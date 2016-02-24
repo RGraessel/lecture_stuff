@@ -1,3 +1,5 @@
+p CHEETAH_GIRLS
+
 CHEETAH_GIRLS = [
   "Raven-Symone",
   "Adrienne Bailon",
